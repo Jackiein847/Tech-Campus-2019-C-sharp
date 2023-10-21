@@ -1,3 +1,3 @@
 # C# -2019
-Learn how to commit
-Learn how to commit
+This code was created in 2019 when I first learned how to code. 
+It only shows how much I can improve over a given amount of time.
